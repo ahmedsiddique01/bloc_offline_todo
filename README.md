@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ahmedsiddique01/bloc_todoapp.git
+    git clone https://github.com/ahmedsiddique01/bloc_offline_todo.git
     ```
 2. Navigate to the project directory:
     ```bash
